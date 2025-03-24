@@ -1,0 +1,4 @@
+Display System info like CPU, RAM, GPU, etc. Needed
+Add more jokes like around a 100. Prefered
+Interact with the package manager to allow for search and install from tuxy. If specific support is needed start with apt and dnf. Prefered
+Get better png image. Needed
