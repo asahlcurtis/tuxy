@@ -1,3 +1,4 @@
+# Makefile
 # Compiler and flags
 CXX = g++                   # Use g++ for C++ compilation
 CXXFLAGS = -Wall -g         # Compiler flags (enable warnings, debugging symbols)
