@@ -9,7 +9,7 @@ LIBS = -lfltk -lfltk_images -lX11 -lXext -lpthread -lm  # Libraries to link agai
 TARGET = tuxy                # The output executable name
 
 # Source files
-SRC = tuxy.cpp               # Your source file
+SRC = tuxy.cpp               # The source file
 
 # Object files
 OBJ = $(SRC:.cpp=.o)         # The corresponding object file
@@ -26,6 +26,6 @@ $(TARGET): $(OBJ)
 clean:
 	rm -f $(OBJ) $(TARGET)          # Remove object files and executable
 
-# Optional: Rebuild everything (clean and then build)
+# Rebuild everything (clean and then build)
 rebuild: clean $(TARGET)
 
