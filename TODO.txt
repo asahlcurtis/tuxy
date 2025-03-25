@@ -1,2 +1,9 @@
-Add more jokes like around a 100. Prefered
-Interact with the package manager to allow for search and install from tuxy. If specific support is needed start with apt and dnf. Prefered
+Add more jokes like around 100. Preferred
+Interact with the package manager to allow for search and installation from Tuxy. If specific support is needed start with apt and dnf. Preferred
+Fix bug in system info callback. Needed
+
+Future features:
+
+  Text formatting and general office help.
+  System customization (Not sure how to do this on Windows/mac this feature is more intended for Linux)
+  Notes, Node-based task management, and other utils.
