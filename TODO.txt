@@ -1,7 +1,7 @@
 Add more jokes like around 100. Wanted
 Interact with the package manager to allow for search and installation from Tuxy. If specific support is needed start with flatpak and flathub. Wanted
 Fix bug in system info callback. Needed
-Make different github branches for more installation types to support more operating systems (eg, Makefile, CMake, install,sh, windows wizard). Needed
+Make different GitHub branches for more installation types to support more operating systems (eg, Makefile, CMake, install.sh, Windows Wizard). Needed
 
 Future features:
 
