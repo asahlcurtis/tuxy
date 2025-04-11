@@ -4,6 +4,8 @@ It isn't finished right now, not even close. But I think it's cool. Right now cu
 
 To build you need fltk and g++. You can type g++ tuxy.cpp -o tuxy -lfltk -lfltk_images -lX11 -lXext -lpthread -lm or type make in the terminal.
 
+If you want to contact me, email me at asahlcurtis@gmail.com
+
 you can download the dependencies with your package manager
 
 Fedora:
