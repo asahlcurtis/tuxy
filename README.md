@@ -6,6 +6,8 @@ To build you need fltk and g++. You can type g++ tuxy.cpp -o tuxy -lfltk -lfltk_
 
 If you want to contact me, email me at asahlcurtis@gmail.com
 
+The tux image was made by Larry Ewing at lewing@isc.tamu.edu with the GIMP
+
 you can download the dependencies with your package manager
 
 Fedora:
