@@ -80,6 +80,8 @@ int main() {
 	Fl_Button *sysbtn = new Fl_Button(90, 0, 75, 25, "sys info");
 	Fl_Button *ofcbtn = new Fl_Button(180, 0, 80, 25, "Tuxy Office");
 
+	Fl_Box *attribution = new Fl_Box(200, 225, 75, 25, "*Image made by Larry Ewing at lewing@@isc.tamu.edu with the GIMP");
+
 	// the callbackes for the buttons
 	jkebtn->callback(joke);
 	sysbtn->callback(sysinfo);
