@@ -59,3 +59,5 @@ If your OS is Windows or macOS why are you installing a piece of software which 
 ![Screenshot From 2025-04-10 12-28-01](https://github.com/user-attachments/assets/894180bd-f5a3-48b0-8f15-12dddf9d3be2)
 ![Screenshot From 2025-04-10 12-27-53](https://github.com/user-attachments/assets/0d0980f0-740c-47ac-a4f1-ec4fff3bec1a)
 ![Screenshot From 2025-04-10 12-27-43](https://github.com/user-attachments/assets/a27374dc-33e7-4233-b900-095852cef11c)
+
+*images from version 0.0.1 pre-alpha
