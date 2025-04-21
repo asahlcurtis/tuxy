@@ -1,6 +1,4 @@
-This is a virtual assistant I am making, it's called tuxy. The name is a reference to Clippy.
-
-It isn't finished right now, not even close. But I think it's cool. Right now currently it only tells jokes and shows a really first page of google image of tux.
+Tuxy is a virtual assistant inspired by Clippy to automate tasks, customize your os, and general help of office work. It is pre-alpha but updates will come every two weeks give or take.
 
 To build you need fltk and g++. You can type g++ tuxy.cpp -o tuxy -lfltk -lfltk_images -lX11 -lXext -lpthread -lm or type make in the terminal.
 
