@@ -1,10 +1,13 @@
-Add more jokes like around 100. Wanted
-Interact with the package manager to allow for search and installation from Tuxy. If specific support is needed start with flatpak and flathub. Wanted
-Fix bug in system info callback. Needed
-Make different GitHub branches for more installation types to support more operating systems (eg, Makefile, CMake, install.sh, Windows Wizard). Needed
+Imminent:
+
+  * Add more jokes, like around 100. Wanted
+  * Interact with the package manager to allow for search and installation from Tuxy. If specific support is needed, start with Flatpak and flathub. Wanted
+  * Fix bug in system info callback. Needed
+  * Make different GitHub branches for more installation types to support more operating systems (eg, Makefile, CMake, install.sh, Windows Wizard). Needed
+  * Create a website and wiki to explain the project and how to use it. Needed (This will come in the next update v0.0.2 pre-alpha)
 
 Future features:
 
-  Text formatting and general office help.
-  System customization (Not sure how to do this on Windows/mac this feature is more intended for Linux)
-  Notes, Node-based task management, and other utils.
+  * Text formatting and general office help.
+  * System customization (Not sure how to do this on Windows/Mac, this feature is more intended for Linux)
+  * Notes, Node-based task management, and other utilities.
