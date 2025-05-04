@@ -6,6 +6,8 @@ If you want to contact me, email me at asahlcurtis@gmail.com
 
 The tux image was made by Larry Ewing at lewing@isc.tamu.edu with the GIMP
 
+Help wanted.
+
 you can download the dependencies with your package manager
 
 Fedora:
