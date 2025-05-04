@@ -1,0 +1,1 @@
+Currently there is only tux and orby. Hopefully I will be able to add more assistants like the GNU project bull and the bsd Daemon. (I will need to see the copy right for the bsd daemon because it only allows bsd software to use it and this is technically cross platform but it really it is Linux+BSD.
