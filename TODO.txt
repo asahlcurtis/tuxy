@@ -8,6 +8,7 @@ Imminent:
   * More office utilities like charts and slides. Wanted
   * Customization and more settings. Wanted
   * Work on website (more pages and custom mod directions). Needed
+  * Overhaul the readme.md. __NEEDED!!__
 
 Future features:
 
