@@ -10,6 +10,11 @@ Imminent:
   * Work on website (more pages and custom mod directions). Needed
   * Overhaul the readme.md. __NEEDED!!__
 
+  Coming software:
+    * Clock
+    * Calculator
+    * pdf/odp text editor
+
 Future features:
 
   * System customization (Not sure how to do this on Windows/Mac, this feature is more intended for Linux)
