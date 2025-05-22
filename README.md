@@ -1,3 +1,5 @@
+Tuxy version 0.0.3 coming soon!
+
 Tuxy is a virtual assistant inspired by Clippy to automate tasks, customize your os, and general help of office work. It is pre-alpha but updates will come every two weeks give or take.
 
 To build you need fltk and g++. You can type g++ tuxy.cpp -o tuxy -lfltk -lfltk_images -lX11 -lXext -lpthread -lm or type make in the terminal.
